@@ -66,3 +66,7 @@ Github: https://github.com/patrickleet/get-docker-secrets
 
 `get-docker-secrets` is a small library which reads docker secret file names,
 and creates an object, with the filenames as keys, and their contents as value.
+
+```
+npm i get-docker-secrets --save
+```
