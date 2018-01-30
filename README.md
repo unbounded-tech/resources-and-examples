@@ -1,2 +1,2 @@
 # Docs
-  * [Working With Docker Secrets](../docs/working-with-docker-secrets.md)
+  * [Working With Docker Secrets](docs/working-with-docker-secrets.md)
