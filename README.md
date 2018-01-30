@@ -48,7 +48,7 @@ pipeline {
     }
     success {
       slackSend(
-        color: "success",
+        color: "good",
         message: "${env.JOB_NAME} succeeded: ${env.RUN_DISPLAY_URL}"
       )
     }
